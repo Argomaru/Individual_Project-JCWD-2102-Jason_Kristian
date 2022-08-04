@@ -1,0 +1,11 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "username" : "udin",
+            "email" : "udin@hotmail.com", 
+            "password" : "pass123",
+            "full_name" : "udin sukamandi"
+        }
+    ]
+}
